@@ -1,6 +1,3 @@
-# Mercado Libre Challenge
-
-
 ## Tecnologias Utilizadas
 - Java 8, Maven , Spring Boot - para test unitarios mockito para test de Integracion utilice Fongo como bd em memoria.
 
