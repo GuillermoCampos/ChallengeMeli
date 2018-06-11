@@ -48,7 +48,10 @@ Para el entorno productivo esta configurado el endPoin Porductivo se Ejecuta
 java -jar -Dspring.profiles.active=prod Magneto-mutants-0.0.1-SNAPSHOT.jar
 
 
-En cuanto a la estuctura de Servidor Productivo se configuro de la siguiente manera
+En cuanto a la estuctura de Servidor Productivo se configuro de la siguiente manera, Por tener una cuenta gratiuta limitada Elegí la siguiente estructura 
+
+![Estructura de App Prod](Deploy.png)
+
 
 
 
