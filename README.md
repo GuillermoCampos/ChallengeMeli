@@ -38,10 +38,10 @@ Opte por realizar test unitarios y adenas testing integrador en la clase Magneto
 
 ### Deploy Entorno
 
-Pata la instalación en el lugar donde baje el código puede ejecutar el .bat o .sh (según su entorno) eso crea una instancia de esta aplicación.
+Deje un  .bat o .sh (según su entorno) en el repositorio eso crea una instancia de esta aplicación.
 
 Instalación en un entorno:
-Llevarlo a su entorno y ejecutarlo. Al ser una aplicación preparada con spring boot cuenta con un tomcat embebido que escucha en el puerto 8080 por lo que tendrá que tenerlo libre al momento de la ejecución. Puede usar el comando java - jar <proyecto.jar>
+Es una app con spring boot cuenta con un tomcat embebido que escucha en el puerto 8080
 
 Para el entorno productivo esta configurado el endPoin Porductivo se Ejecuta
 
