@@ -1,5 +1,5 @@
 ## Tecnologias Utilizadas
-- Java 8, Maven , Spring Boot , Mongo, para test unitarios mockito para test de Integracion utilice Fongo como bd em memoria.
+- Java 8, Maven , Spring Boot , Mongo, para test unitarios mockito para test de Integracion utilice Fongo como bd en memoria.
 
 Ruta de la app deployada en el servidor aws : http://aplicacion-2092042095.us-east-1.elb.amazonaws.com
 
