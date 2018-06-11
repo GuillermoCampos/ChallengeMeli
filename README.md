@@ -6,7 +6,7 @@ Ruta de la app deployada en el servidor aws : http://aplicacion-2092042095.us-ea
 ## EndPoints:
 
 ### POST /mutant/: 
-Verifica si un ADN pertenece a un mutante o humano. Se deja registro en la DB Mongo si es que ya no exixte el Registro.
+Verifica si un ADN pertenece a un mutante o humano. Se deja registro en la DB Mongo si es que noi existe el registro previamente.
 
 Ejemplo de Json de POST: {"dna": ["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]}
 
